@@ -40,8 +40,8 @@ const Contact = () => {
                   <div>
                     <h4 className="font-semibold text-base md:text-lg mb-1">Call Us</h4>
                     <p className="text-muted-foreground text-sm md:text-base">
-                      +91 7942679618<br />
-                      Mon-Fri, 8AM-4PM
+                      02365 251485<br />
+                      Mon-Fri, 9.30am - 1.00pm
                     </p>
                   </div>
                 </div>

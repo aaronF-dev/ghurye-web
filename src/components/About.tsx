@@ -44,7 +44,7 @@ const About = () => {
         <div className="text-center mb-12 md:mb-16">
           <div className="inline-flex items-center gap-2 bg-primary/10 px-4 md:px-6 py-2 md:py-3 rounded-full mb-4 md:mb-6">
             <Star className="w-4 h-4 md:w-5 md:h-5 text-primary fill-primary" />
-            <span className="text-xs md:text-sm font-semibold text-primary">Since 2005</span>
+            <span className="text-xs md:text-sm font-semibold text-primary">Since 2004</span>
           </div>
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 md:mb-6 leading-tight px-4">
             About <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary via-accent to-secondary">Sunshine Primary</span> School 🏫
