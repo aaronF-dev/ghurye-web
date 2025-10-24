@@ -84,7 +84,7 @@ const About = () => {
                     Our Story 📖
                   </h3>
                   <p className="text-base md:text-lg text-muted-foreground leading-relaxed">
-                    Welcome to <span className="font-bold text-foreground">Sunshine Primary School</span>, where learning is an adventure 
+                    Welcome to <span className="font-bold text-foreground">Smt. Sitabai Shripad Ghurye Pre Primary English Medium School</span>, where learning is an adventure 
                     and every child is a star! For nearly two decades, we've been creating a warm, nurturing environment 
                     where curious young minds can explore, discover, and grow.
                   </p>
